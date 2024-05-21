@@ -1,0 +1,10 @@
+make sure you have place this folder in htdocs in your xampp folder
+
+reload page if you see any error on page start 
+coz that was when the database and necessary tables were being set
+
+admin login details
+email = mlongweesnart@gmail.com
+password = Esnath@Banda
+
+
